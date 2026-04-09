@@ -107,7 +107,7 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ### 4️⃣ Free vs. Paid Apps & Rating Distribution
 
-![Free vs Paid](assets/free_vs_paid.png)
+![Free vs Paid](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/c91ab523852aef68489c41cbe407936df1011ae9/Visuals/free_vs_paid.png)
 
 #### 💰 Free vs. Paid
 
