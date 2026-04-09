@@ -153,7 +153,7 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ### 6️⃣ Sentiment Analysis — 37,432 Classified Reviews
 
-![Sentiment Analysis](assets/sentiment_analysis.png)
+![Sentiment Analysis](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/fde3936b4f326423826fe788c460add859b69e42/Visuals/sentiment_analysis.png)
 
 | Sentiment | Count | Percentage | Avg Polarity |
 |---|---|---|---|
