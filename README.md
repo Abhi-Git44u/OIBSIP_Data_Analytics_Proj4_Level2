@@ -65,7 +65,7 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ### 3️⃣ Installs by Category vs. Avg Rating by Category
 
-![Category Analysis](assets/category_analysis.png)
+![Category Analysis](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/8017803a4626e5f448b59e13ae46ffc2f845e16d/Visuals/category_analysis.png)
 
 #### 📦 Installs by Category (Top 8)
 
