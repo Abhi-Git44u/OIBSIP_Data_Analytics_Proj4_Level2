@@ -32,7 +32,7 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ### 1️⃣ Market Overview — High-Level KPIs
 
-![Market Overview](assets/dashboard_overview.png)
+![Market Overview](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/56a1662196552fc987cb2553182ed6d7e3c9f3ce/Visuals/dashboard_overview.png)
 
 **Dataset:** 9,659 apps · 64,295 user reviews · 33 categories
 
