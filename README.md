@@ -140,7 +140,7 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ### 5️⃣ Top 10 Apps by Review Count
 
-![Top 10 Apps](assets/top10_apps.png)
+![Top 10 Apps](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/44c76692e3797a3739cb35f839b91427a72b8682/Visuals/top10_apps.png)
 
 | # | App | Category | Rating | Reviews | Installs |
 |---|---|---|---|---|---|
