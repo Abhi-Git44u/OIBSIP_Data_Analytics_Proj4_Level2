@@ -142,19 +142,6 @@ This project dives deep into the Android app market by leveraging data analytics
 
 ![Top 10 Apps](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_Proj4_Level2/blob/44c76692e3797a3739cb35f839b91427a72b8682/Visuals/top10_apps.png)
 
-| # | App | Category | Rating | Reviews | Installs |
-|---|---|---|---|---|---|
-| 1 | Facebook | SOCIAL | 4.1★ | 78.2M | 1B+ |
-| 2 | WhatsApp Messenger | COMMUNICATION | 4.4★ | 69.1M | 1B+ |
-| 3 | Instagram | SOCIAL | 4.5★ | 66.6M | 1B+ |
-| 4 | Messenger | COMMUNICATION | 4.0★ | 56.6M | 1B+ |
-| 5 | Clash of Clans | GAME | 4.6★ | 44.9M | 100M+ |
-| 6 | Clean Master | TOOLS | 4.7★ | 42.9M | 500M+ |
-| 7 | Subway Surfers | GAME | 4.5★ | 27.7M | 1B+ |
-| 8 | YouTube | VIDEO_PLAYERS | 4.3★ | 25.7M | 1B+ |
-| 9 | Security Master | TOOLS | 4.7★ | 24.9M | 500M+ |
-| 10 | Clash Royale | GAME | 4.6★ | 23.1M | 100M+ |
-
 **Insights:**
 - **Facebook** leads review count at 78.2M but has the lowest rating (4.1★) among the top 10 — showing that massive user bases produce more critical feedback.
 - **Instagram** achieves a strong balance of high installs (1B+) and solid ratings (4.5★), reflecting strong product-market fit.
